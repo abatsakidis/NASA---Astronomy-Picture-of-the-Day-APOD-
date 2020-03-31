@@ -11,7 +11,7 @@ The app will download and display NASA's wonderful Astronomy Picture of the Day 
 
 ## Screenshot
 
-![Alt text](/Screenshot/screen.jpg?raw=true "CovidSharp")
+![Alt text](/Screenshot/screen.JPG?raw=true "NASA")
 
 ## Tested on ##
 
