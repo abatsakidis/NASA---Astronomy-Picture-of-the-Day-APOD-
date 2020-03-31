@@ -1,0 +1,4 @@
+date today:31/3/2020
+image count today:7
+show on startup:True
+limit range:False

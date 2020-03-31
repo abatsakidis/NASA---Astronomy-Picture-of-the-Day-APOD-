@@ -1,0 +1,13 @@
+C:\Users\mantis\source\repos\NASA - Astronomy Picture of the Day\NASA - Astronomy Picture of the Day\bin\Debug\NASA - Astronomy Picture of the Day.exe.config
+C:\Users\mantis\source\repos\NASA - Astronomy Picture of the Day\NASA - Astronomy Picture of the Day\bin\Debug\NASA - Astronomy Picture of the Day.exe
+C:\Users\mantis\source\repos\NASA - Astronomy Picture of the Day\NASA - Astronomy Picture of the Day\bin\Debug\NASA - Astronomy Picture of the Day.pdb
+C:\Users\mantis\source\repos\NASA - Astronomy Picture of the Day\NASA - Astronomy Picture of the Day\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mantis\source\repos\NASA - Astronomy Picture of the Day\NASA - Astronomy Picture of the Day\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mantis\source\repos\NASA - Astronomy Picture of the Day\NASA - Astronomy Picture of the Day\obj\Debug\NASA - Astronomy Picture of the Day.csprojAssemblyReference.cache
+C:\Users\mantis\source\repos\NASA - Astronomy Picture of the Day\NASA - Astronomy Picture of the Day\obj\Debug\NASA___Astronomy_Picture_of_the_Day.Form1.resources
+C:\Users\mantis\source\repos\NASA - Astronomy Picture of the Day\NASA - Astronomy Picture of the Day\obj\Debug\NASA___Astronomy_Picture_of_the_Day.Properties.Resources.resources
+C:\Users\mantis\source\repos\NASA - Astronomy Picture of the Day\NASA - Astronomy Picture of the Day\obj\Debug\NASA - Astronomy Picture of the Day.csproj.GenerateResource.cache
+C:\Users\mantis\source\repos\NASA - Astronomy Picture of the Day\NASA - Astronomy Picture of the Day\obj\Debug\NASA - Astronomy Picture of the Day.csproj.CoreCompileInputs.cache
+C:\Users\mantis\source\repos\NASA - Astronomy Picture of the Day\NASA - Astronomy Picture of the Day\obj\Debug\NASA - Astronomy Picture of the Day.csproj.CopyComplete
+C:\Users\mantis\source\repos\NASA - Astronomy Picture of the Day\NASA - Astronomy Picture of the Day\obj\Debug\NASA - Astronomy Picture of the Day.exe
+C:\Users\mantis\source\repos\NASA - Astronomy Picture of the Day\NASA - Astronomy Picture of the Day\obj\Debug\NASA - Astronomy Picture of the Day.pdb
